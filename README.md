@@ -2,6 +2,10 @@
 
 [**Mirae Legends on iOS**](https://apps.apple.com/us/app/mirae-legends/id6751153149)
 
+**Mirae Legends** in Portrait Mode
+
+![portraitmode](miraegif1.gif)
+
 **Children's Storybook Generation Platform Powered by Dreams**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
