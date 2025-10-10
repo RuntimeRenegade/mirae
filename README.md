@@ -2,6 +2,8 @@
 
 [**Mirae Legends on iOS**](https://apps.apple.com/us/app/mirae-legends/id6751153149)
 
+**FOR THE MOST UP TO DATE INFORMATION ON MIRAE** [**Read Our About Page**](https://www.notgpt.net/mirae/about)
+
 **Mirae Legends** in Portrait Mode
 
 ![portraitmode](miraegif1.gif)
